@@ -1,7 +1,7 @@
 # Awesome-Automated-Recurring-Billing
 # Awesome-Automated-Recurring-Billing
 
-# Top Automated Recurring Billing Ecosystem
+## Top Automated Recurring Billing Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Subscription Billing Automation, Usage Metering & Revenue Lifecycle Management*  
