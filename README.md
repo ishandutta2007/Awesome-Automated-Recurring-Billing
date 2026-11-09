@@ -1,32 +1,46 @@
-# Awesome-Automated-Recurring-Billing
-# Awesome-Automated-Recurring-Billing
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Automated Recurring Billing" width="100%" />
+</p>
 
-## Top Automated Recurring Billing Ecosystem
+# Awesome Automated Recurring Billing 💳 ⚡
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Subscription Billing Automation, Usage Metering & Revenue Lifecycle Management*  
-**Last updated: March 2026**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Automated-Recurring-Billing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Recurring-Billing?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Automated-Recurring-Billing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Automated-Recurring-Billing?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Automated-Recurring-Billing/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Automated-Recurring-Billing/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Automated-Recurring-Billing?style=flat-square" alt="Issues" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Automated Recurring Billing**. These tools help businesses automate subscription lifecycles, usage-based charging, invoicing, dunning, and revenue recognition—covering everything from simple monthly plans to complex hybrid pricing models.
+> 🚀 **A curated directory of top-tier SaaS platforms and open-source GitHub projects for Automated Recurring Billing, Subscription Management, Real-Time Usage Metering, and Revenue Operations (RevOps).**
 
-**Examples** include Chargebee Billing Automation, Stripe Billing, Zuora Billing, Recurly Automations, Maxio Automations, Ordway, BillingPlatform, Nitrobox, LogiSense, and Rebilly (the category leaders).
+---
 
-**Open-source emphasis**: This section highlights every major active project for self-hosted billing engines, subscription management, usage metering, and revenue recognition—ideal for SaaS founders, finance engineers, platform teams, and developers building transparent, vendor-neutral billing infrastructure without per-transaction vendor lock-in.
+## 📑 Table of Contents
+- [🔍 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Frameworks & Architecture Guide](#️-frameworks--architecture-guide)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+---
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 🔍 Sector Overview & Market Dynamics
 
-## Sector Overview & Market Dynamics
+The global subscription billing management software market is valued at approximately **$8.6B to $10.0B in 2026** (projected at a 12%–17% CAGR), embedded within a broader recurring payments transaction ecosystem surpassing $160B. 
 
-The global subscription billing management software market is valued at approximately **$8.6B to $10.0B in 2026** (growing at a 12%–17% CAGR), embedded within a broader recurring payments transaction ecosystem surpassing $160B. The sector is **moderately fragmented**: hyper-scale payment infrastructure providers (e.g., Stripe) capture high-volume developer and checkout workflows, enterprise leaders (e.g., Zuora, Chargebee) dominate complex multi-attribute SaaS subscription and revenue operations, and specialized niche platforms compete on complex consumption-based, IoT, and ERP mediation.
+The sector is **moderately fragmented**: 
+- **Developer-first payment monoliths** (e.g., Stripe) lead checkout-driven, high-velocity subscription setups.
+- **Enterprise RevOps platforms** (e.g., Zuora, Chargebee) dominate multi-attribute SaaS subscription lifecycles, ASC 606/IFRS 15 revenue recognition, and hybrid contracting.
+- **Modern open-source & usage-metering engines** (e.g., Lago, Flexprice, OpenMeter, Kill Bill) provide self-hosted event metering, transparent double-entry ledgers, and decoupled entitlement layers without per-transaction vendor lock-in.
 
-## SaaS/Hosted Platforms
+---
+
+## 🏢 SaaS/Hosted Platforms
 
 | Platform | Company Size (Valuation / Revenue) | Pricing | Free Tier / Free Trial Limit | Key Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
@@ -41,40 +55,97 @@ The global subscription billing management software market is valued at approxim
 | **[Rebilly](https://www.rebilly.com/)** | **~$6.4M ARR** (independent / bootstrapped) | Starts at **$15/mo** (Basic) or **$125/mo** (Pro) + 1% revenue share ($0 Rebilly transaction fees) | **30-day free trial** with full feature access on Basic and Pro plans; no forever-free production tier. | Subscription billing and payment orchestration platform with flexible pricing models (fixed, tiered, stair-step, volume), dunning rules, credit memos, and risk management. |
 | **[Nitrobox](https://www.nitrobox.com/)** | **~$3.3M ARR** (Series A funded by Porsche Ventures & NeueCapital) | Custom enterprise quote; base list entry points from **€1,000 – €5,000+/year** platform fee | No self-serve free trial; live 1-on-1 guided proof-of-concept/demo sandbox upon request. | Central European agile monetization platform for platform operators and OEMs, supporting subscription, usage-based, and convergent multi-party invoicing. |
 
-## Open-Source GitHub Projects
+---
 
-- **[Recurso](https://github.com/recurso-dev/recurso)**  
-  Open-source (MIT) billing engine for SaaS in Go + PostgreSQL: subscriptions, invoicing, multi-currency payments, India GST/EU VAT, smart dunning, usage-based billing with 8 aggregations, built-in double-entry ledger, and self-serve importers from Stripe/Chargebee [citation:12].
+## 💻 Open-Source GitHub Projects
 
-### Additional Strong Open-Source Options
+Self-hosted, transparent, and auditable billing engines, subscription microservices, and usage-metering frameworks sorted by GitHub star count:
 
-- **[BillCycle](https://pypi.org/project/syeedalireza-billcycle/)** — Subscription and usage-based billing engine scaffold (FastAPI + PostgreSQL + Celery Beat) with state machine and event sourcing architecture; early-stage project [citation:11].
-- **[Kill Bill](https://github.com/killbill/killbill)** — Mature open-source subscription billing and payments platform with entitlements, invoicing, and usage metering for SaaS and telecom.
-- **[Akaunting](https://github.com/akaunting/akaunting)** — Open-source accounting suite with recurring invoicing and subscription-style billing for small businesses.
-- **[Crater](https://github.com/crater-invoice/crater)** — Open-source invoicing app with recurring invoices and subscription-like recurring billing for freelancers and SMEs.
-- **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** — Self-hosted invoicing, quoting, and recurring billing platform with client portal and payment gateway integrations.
-- **[FOSSBilling](https://github.com/FOSSBilling/FOSSBilling)** — Open-source billing and client management for hosting providers and digital subscription businesses.
-- **[Blesta](https://github.com/blesta/blesta)** — Client management, billing, and support software with recurring charges and payment gateway modules.
-- Many community **Stripe/Paddle/Lemon Squeezy webhook processors** and **subscription state machines** for lightweight custom billing layers.
+1. **[Lago](https://github.com/getlago/lago)** [![GitHub Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers)  
+   *Open-source metering and usage-based billing engine.* Built for modern SaaS and developer tools, Lago handles real-time consumption event ingestion, complex pricing tiers, customer wallets/credits, add-ons, and automated invoicing with payment processor integrations.
 
-**Frameworks for building custom systems**: Combine **Recurso** for ledger-backed billing logic, **Kill Bill** for entitlements and metering, and **PostgreSQL + dbt** for revenue analytics—or layer **Invoice Ninja** on top for customer-facing invoicing.
+2. **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
+   *Enterprise-ready self-hosted invoicing and recurring billing suite.* Offers automated recurring invoices, client portals, partial payments, quotes-to-invoices, and integration with 30+ payment gateways for freelancers and scaling businesses.
 
-## How to Contribute
+3. **[Akaunting](https://github.com/akaunting/akaunting)** [![GitHub Stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers)  
+   *Comprehensive open-source online accounting and recurring invoicing software.* Features automated recurring billings, customer subscription tracking, multi-currency ledgers, expense tracking, and financial reporting for small-to-medium businesses.
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
+4. **[Crater](https://github.com/crater-invoice/crater)** [![GitHub Stars](https://img.shields.io/github/stars/crater-invoice/crater?style=social&color=white)](https://github.com/crater-invoice/crater/stargazers)  
+   *Open-source web and mobile invoicing app.* Features automated recurring invoices, detailed payment tracking, tax estimation, and polished cross-platform client management for freelancers and digital creators.
 
-Star the repo if you find it useful!
+5. **[Flexprice](https://github.com/flexprice/flexprice)** [![GitHub Stars](https://img.shields.io/github/stars/flexprice/flexprice?style=social&color=white)](https://github.com/flexprice/flexprice/stargazers)  
+   *Open-source usage-based billing, dynamic pricing, and metering infrastructure.* Designed for AI, API, and cloud services with real-time event aggregation, wallet management, multi-currency invoicing, and self-hosted open-core architecture.
 
-## Disclaimer
+6. **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
+   *Industrial-strength open-source subscription billing and payments platform.* Enterprise-proven since 2010 with stateful subscription entitlement management, rating and invoicing pipelines, plugins for international gateways, and custom dunning rules.
 
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Recurring billing tools must comply with applicable tax regulations (VAT, GST, sales tax, e-invoicing mandates) and payment card industry standards.
-- Self-hosted open-source billing engines require proper PCI scope management, ledger reconciliation, and financial controls.
+7. **[OpenMeter](https://github.com/openmeterio/openmeter)** [![GitHub Stars](https://img.shields.io/github/stars/openmeterio/openmeter?style=social&color=white)](https://github.com/openmeterio/openmeter/stargazers)  
+   *Cloud-native usage metering and consumption tracking engine.* Ingests millions of raw events per second with sub-second aggregation, real-time balance enforcement, and clean API connectors for Stripe, Lago, and downstream accounting tools.
+
+8. **[Lotus](https://github.com/uselotus/lotus)** [![GitHub Stars](https://img.shields.io/github/stars/uselotus/lotus?style=social&color=white)](https://github.com/uselotus/lotus/stargazers)  
+   *Open-source pricing and packaging control layer for SaaS.* Enables teams to deploy and iterate on recurring subscriptions, hybrid usage tiers, feature entitlements, and pricing experiments without rewriting backend billing code.
+
+9. **[FOSSBilling](https://github.com/FOSSBilling/FOSSBilling)** [![GitHub Stars](https://img.shields.io/github/stars/FOSSBilling/FOSSBilling?style=social&color=white)](https://github.com/FOSSBilling/FOSSBilling/stargazers)  
+   *Lightweight open-source billing and client management software.* Community-driven solution tailored for web hosts, digital services, and SaaS startups requiring recurring invoices, automated provisioning, and ticketed support.
+
+10. **[Meteroid](https://github.com/meteroid-oss/meteroid)** [![GitHub Stars](https://img.shields.io/github/stars/meteroid-oss/meteroid?style=social&color=white)](https://github.com/meteroid-oss/meteroid/stargazers)  
+    *Open-source pricing and usage billing platform.* Features event ingestion and deduplication, versioned pricing models, prepaid wallets, proration for upgrades/downgrades, and multi-language automated invoices.
+
+11. **[Tier](https://github.com/tierrun/tier)** [![GitHub Stars](https://img.shields.io/github/stars/tierrun/tier?style=social&color=white)](https://github.com/tierrun/tier/stargazers)  
+    *SDK and microservice for pricing, metering, and entitlement enforcement.* Powered by Stripe, Tier lets engineers define pricing plans as code (JSON), track feature limits, and charge recurring fees without rebuilding checkout plumbing.
+
+12. **[Recurso](https://github.com/recurso-dev/recurso)** [![GitHub Stars](https://img.shields.io/github/stars/recurso-dev/recurso?style=social&color=white)](https://github.com/recurso-dev/recurso/stargazers)  
+    *Modern open-source (MIT) billing engine written in Go + PostgreSQL.* Features recurring subscriptions, India GST / EU VAT tax engines, smart dunning, 8 usage aggregations, double-entry financial ledger, and zero vendor lock-in.
 
 ---
 
-**Made for SaaS founders, finance engineers, billing platform teams, and developers building subscription businesses.**  
-Let's make recurring billing more open, transparent, and auditable.
+## 🛠️ Frameworks & Architecture Guide
+
+For platform engineering teams rolling out custom billing pipelines without vendor lock-in:
+* **Event Ingestion & Usage Metering:** Integrate **OpenMeter** or **Lago** for high-throughput stream processing and event aggregation.
+* **Subscription State & Entitlements:** Use **Kill Bill** or **Tier** to manage subscriber lifecycles, grace periods, upgrades, and cancellations.
+* **Double-Entry Financial Ledger:** Combine **Recurso** or **PostgreSQL + dbt** models to guarantee auditability, ASC 606 revenue recognition, and ledger integrity.
+* **Customer Portal & Invoicing:** Deploy **Invoice Ninja** or **Crater** for customer-facing self-service invoice generation and gateway orchestration.
+
+---
+
+## 🤝 How to Contribute
+
+We welcome contributions from the developer and finance engineering community! 🌟
+
+1. **Fork** the repository.
+2. **Add or update** entries in `README.md` following the existing format.
+3. Include: Product/Project Name, Official URL / GitHub Repo, concise description, pricing/star badge, and license details.
+4. Open a **Pull Request** with a brief summary of the changes.
+
+---
+
+## 💖 Support
+
+If this curated directory has helped you discover billing solutions or save engineering hours, consider supporting this project! ☕
+
+- ⭐ **Star** this repository on GitHub to help others discover it.
+- 🍴 **Fork** and contribute open-source billing engines or SaaS benchmarks.
+- 📢 **Share** this collection with fellow SaaS founders, finance engineers, and developers.
+- ☕ **Sponsor / Buy me a coffee:** Support ongoing open-source curation and maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Automated-Recurring-Billing&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Automated-Recurring-Billing&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
+
+- This is a **community-curated list** provided for educational and architectural reference—not financial, legal, or tax advice.
+- Automated recurring billing and payment solutions must strictly comply with regional tax regulations (e.g., EU VAT, India GST, US Sales Tax, Peppol e-invoicing mandates) and security frameworks (PCI-DSS Level 1, SOC 1/2, ISO 27001).
+- Self-hosted billing software requires proper cryptographic key management, PCI tokenization scope reduction, and financial ledger reconciliation.
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for SaaS Founders, Finance Engineers, Platform Architects, and Developers.</b><br/>
+  <i>Let's make recurring billing open, reliable, and auditable.</i>
+</p>
