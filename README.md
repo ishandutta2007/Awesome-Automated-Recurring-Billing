@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Automated-Recurring-Billing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Recurring-Billing?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Automated-Recurring-Billing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Recurring-Billing?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Recurring-Billing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Automated-Recurring-Billing?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Recurring-Billing/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Recurring-Billing/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Automated-Recurring-Billing?style=flat-square" alt="Issues" /></a>
@@ -59,42 +59,42 @@ The sector is **moderately fragmented**:
 
 ## ðŸ’» Open-Source GitHub Projects
 
-Self-hosted, transparent, and auditable billing engines, subscription microservices, and usage-metering frameworks sorted by GitHub star count:
+Self-hosted, transparent, and auditable billing engines, subscription microservices, and usage-metering frameworks sorted by GitHub Stars_Count:
 
-1. **[Lago](https://github.com/getlago/lago)** [![GitHub Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers)  
+1. **[Lago](https://github.com/getlago/lago)** [![GitHub_Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers)  
    *Open-source metering and usage-based billing engine.* Built for modern SaaS and developer tools, Lago handles real-time consumption event ingestion, complex pricing tiers, customer wallets/credits, add-ons, and automated invoicing with payment processor integrations.
 
-2. **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
+2. **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub_Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
    *Enterprise-ready self-hosted invoicing and recurring billing suite.* Offers automated recurring invoices, client portals, partial payments, quotes-to-invoices, and integration with 30+ payment gateways for freelancers and scaling businesses.
 
-3. **[Akaunting](https://github.com/akaunting/akaunting)** [![GitHub Stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers)  
+3. **[Akaunting](https://github.com/akaunting/akaunting)** [![GitHub_Stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers)  
    *Comprehensive open-source online accounting and recurring invoicing software.* Features automated recurring billings, customer subscription tracking, multi-currency ledgers, expense tracking, and financial reporting for small-to-medium businesses.
 
-4. **[Crater](https://github.com/crater-invoice/crater)** [![GitHub Stars](https://img.shields.io/github/stars/crater-invoice/crater?style=social&color=white)](https://github.com/crater-invoice/crater/stargazers)  
+4. **[Crater](https://github.com/crater-invoice/crater)** [![GitHub_Stars](https://img.shields.io/github/stars/crater-invoice/crater?style=social&color=white)](https://github.com/crater-invoice/crater/stargazers)  
    *Open-source web and mobile invoicing app.* Features automated recurring invoices, detailed payment tracking, tax estimation, and polished cross-platform client management for freelancers and digital creators.
 
-5. **[Flexprice](https://github.com/flexprice/flexprice)** [![GitHub Stars](https://img.shields.io/github/stars/flexprice/flexprice?style=social&color=white)](https://github.com/flexprice/flexprice/stargazers)  
+5. **[Flexprice](https://github.com/flexprice/flexprice)** [![GitHub_Stars](https://img.shields.io/github/stars/flexprice/flexprice?style=social&color=white)](https://github.com/flexprice/flexprice/stargazers)  
    *Open-source usage-based billing, dynamic pricing, and metering infrastructure.* Designed for AI, API, and cloud services with real-time event aggregation, wallet management, multi-currency invoicing, and self-hosted open-core architecture.
 
-6. **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
+6. **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
    *Industrial-strength open-source subscription billing and payments platform.* Enterprise-proven since 2010 with stateful subscription entitlement management, rating and invoicing pipelines, plugins for international gateways, and custom dunning rules.
 
-7. **[OpenMeter](https://github.com/openmeterio/openmeter)** [![GitHub Stars](https://img.shields.io/github/stars/openmeterio/openmeter?style=social&color=white)](https://github.com/openmeterio/openmeter/stargazers)  
+7. **[OpenMeter](https://github.com/openmeterio/openmeter)** [![GitHub_Stars](https://img.shields.io/github/stars/openmeterio/openmeter?style=social&color=white)](https://github.com/openmeterio/openmeter/stargazers)  
    *Cloud-native usage metering and consumption tracking engine.* Ingests millions of raw events per second with sub-second aggregation, real-time balance enforcement, and clean API connectors for Stripe, Lago, and downstream accounting tools.
 
-8. **[Lotus](https://github.com/uselotus/lotus)** [![GitHub Stars](https://img.shields.io/github/stars/uselotus/lotus?style=social&color=white)](https://github.com/uselotus/lotus/stargazers)  
+8. **[Lotus](https://github.com/uselotus/lotus)** [![GitHub_Stars](https://img.shields.io/github/stars/uselotus/lotus?style=social&color=white)](https://github.com/uselotus/lotus/stargazers)  
    *Open-source pricing and packaging control layer for SaaS.* Enables teams to deploy and iterate on recurring subscriptions, hybrid usage tiers, feature entitlements, and pricing experiments without rewriting backend billing code.
 
-9. **[FOSSBilling](https://github.com/FOSSBilling/FOSSBilling)** [![GitHub Stars](https://img.shields.io/github/stars/FOSSBilling/FOSSBilling?style=social&color=white)](https://github.com/FOSSBilling/FOSSBilling/stargazers)  
+9. **[FOSSBilling](https://github.com/FOSSBilling/FOSSBilling)** [![GitHub_Stars](https://img.shields.io/github/stars/FOSSBilling/FOSSBilling?style=social&color=white)](https://github.com/FOSSBilling/FOSSBilling/stargazers)  
    *Lightweight open-source billing and client management software.* Community-driven solution tailored for web hosts, digital services, and SaaS startups requiring recurring invoices, automated provisioning, and ticketed support.
 
-10. **[Meteroid](https://github.com/meteroid-oss/meteroid)** [![GitHub Stars](https://img.shields.io/github/stars/meteroid-oss/meteroid?style=social&color=white)](https://github.com/meteroid-oss/meteroid/stargazers)  
+10. **[Meteroid](https://github.com/meteroid-oss/meteroid)** [![GitHub_Stars](https://img.shields.io/github/stars/meteroid-oss/meteroid?style=social&color=white)](https://github.com/meteroid-oss/meteroid/stargazers)  
     *Open-source pricing and usage billing platform.* Features event ingestion and deduplication, versioned pricing models, prepaid wallets, proration for upgrades/downgrades, and multi-language automated invoices.
 
-11. **[Tier](https://github.com/tierrun/tier)** [![GitHub Stars](https://img.shields.io/github/stars/tierrun/tier?style=social&color=white)](https://github.com/tierrun/tier/stargazers)  
+11. **[Tier](https://github.com/tierrun/tier)** [![GitHub_Stars](https://img.shields.io/github/stars/tierrun/tier?style=social&color=white)](https://github.com/tierrun/tier/stargazers)  
     *SDK and microservice for pricing, metering, and entitlement enforcement.* Powered by Stripe, Tier lets engineers define pricing plans as code (JSON), track feature limits, and charge recurring fees without rebuilding checkout plumbing.
 
-12. **[Recurso](https://github.com/recurso-dev/recurso)** [![GitHub Stars](https://img.shields.io/github/stars/recurso-dev/recurso?style=social&color=white)](https://github.com/recurso-dev/recurso/stargazers)  
+12. **[Recurso](https://github.com/recurso-dev/recurso)** [![GitHub_Stars](https://img.shields.io/github/stars/recurso-dev/recurso?style=social&color=white)](https://github.com/recurso-dev/recurso/stargazers)  
     *Modern open-source (MIT) billing engine written in Go + PostgreSQL.* Features recurring subscriptions, India GST / EU VAT tax engines, smart dunning, 8 usage aggregations, double-entry financial ledger, and zero vendor lock-in.
 
 ---
@@ -115,7 +115,7 @@ We welcome contributions from the developer and finance engineering community! ð
 
 1. **Fork** the repository.
 2. **Add or update** entries in `README.md` following the existing format.
-3. Include: Product/Project Name, Official URL / GitHub Repo, concise description, pricing/star badge, and license details.
+3. Include: Product/Project Name, Official URL / GitHub Repo, concise description, pricing/Stars_Badge, and license details.
 4. Open a **Pull Request** with a brief summary of the changes.
 
 ---
